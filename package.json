@@ -1,0 +1,25 @@
+{
+  "name": "webaudio-controls",
+  "version": "1.0.0",
+  "description": "**WebAudioControls** is GUI parts Custom Elements library for Web application using WebComponents.   Especially suitable for audio-applications like VST plugins.",
+  "main": "webaudio-controls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g200kg/webaudio-controls.git"
+  },
+  "author": "agektmr@, ryoyakawai@, aike@, g200kg@",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/g200kg/webaudio-controls/issues"
+  },
+  "homepage": "https://github.com/g200kg/webaudio-controls#readme",
+  "devDependencies": {
+    "@types/webmidi": "^2.0.4"
+  },
+  "dependencies": {
+    "lit-element": "^2.3.1"
+  }
+}
